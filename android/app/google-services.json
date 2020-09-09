@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944640356540",
+    "firebase_url": "https://instagramverileri-mc.firebaseio.com",
+    "project_id": "instagramverileri-mc",
+    "storage_bucket": "instagramverileri-mc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944640356540:android:f11f3c99396ab7ed7860b9",
+        "android_client_info": {
+          "package_name": "com.centosstudio.intagramverileri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944640356540-rbte2padt1oa20frsnc5cgomn9bj1r6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUdGgadEVSEJuEsbzzLltrXAi1p_SFSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944640356540-rbte2padt1oa20frsnc5cgomn9bj1r6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
